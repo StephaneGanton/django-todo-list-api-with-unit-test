@@ -8,6 +8,8 @@
     - django_filter // for filtering
     - drf_yasg // Yet another Swagger generator
 
+    - git remote add origin <REMOTE_URL>
+
 
 --> Notes:
 
