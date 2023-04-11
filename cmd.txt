@@ -1,0 +1,18 @@
+--> Tests <--
+
+    - python manage.py test
+    - pip install coverage ( module to manage tests)
+    - coverage run manage.py test && coverage report && coverage html
+
+    - pyjwt // for jwt authentication
+    - django_filter // for filtering
+    - drf_yasg // Yet another Swagger generator
+
+
+--> Notes:
+
+    - api view, generic view, CreateAPIView, ListAPIView, ListCreateAPIView
+    - serializer vs ModelSerializer
+    - def perform_create , create : inside models
+    - lookup_field
+
